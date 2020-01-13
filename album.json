@@ -1,0 +1,72 @@
+[
+    {
+       "titel": "The Slim Shady LP",
+       "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Eminem_-_The_Slim_Shady_LP_CD_cover.jpg/220px-Eminem_-_The_Slim_Shady_LP_CD_cover.jpg",
+       "auteur": ["Eminem"],
+       "uitgave": " 23 februari 1999",
+       "minuten": 	59,
+       "taal": "Engels",
+       "ean": "Undefined",
+        "prijs": 9.99
+    },
+    {
+       "titel": "The Marshall Mathers LP",
+       "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/The_Marshall_Mathers_LP.jpg/220px-The_Marshall_Mathers_LP.jpg",
+       "auteur": ["Eminem"],
+       "uitgave": "23 mei 2000",
+       "minuten": 72,
+       "taal": "Engels",
+       "ean": "Undefined",
+        "prijs": 13.99
+    },
+    {
+       "titel": "The Eminem Show",
+       "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/The_Eminem_Show.jpg/220px-The_Eminem_Show.jpg",
+       "auteur": ["Eminem"],
+       "uitgave": "26 mei 2002",
+       "ean": "Undefined",
+       "minuten": 77,
+       "taal": "Engels",
+        "prijs": 19.99
+    },
+    {
+       "titel": "Encore",
+       "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Encore_%28Eminem_album%29_coverart.jpg/220px-Encore_%28Eminem_album%29_coverart.jpg",
+       "auteur": ["Eminem"],
+       "uitgave": "12 november 2004",
+       "ean": "Undefined",
+       "minuten": 76,
+       "taal": "Engels",
+        "prijs": 14.50
+    },
+    {
+       "titel": "Relapse",
+       "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Relapse_%28album%29.jpg/220px-Relapse_%28album%29.jpg",
+       "auteur": ["Eminem"],
+       "uitgave": "15 mei 2009",
+       "minuten": 76,
+       "taal": "Engels",
+       "ean": "Undefined",
+      "prijs": 17.50
+    },
+    {
+       "titel": "Recovery",
+       "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Recovery_Album_Cover.jpg/220px-Recovery_Album_Cover.jpg",
+       "auteur": ["Eminem"],
+       "uitgave": "18 juni 2010",
+       "minuten": 77,
+       "taal": "Engels",
+       "ean": "Undefined",
+      "prijs": 24.99
+    },
+    {
+       "titel": "Kamikaze",
+       "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Eminem_-_Kamikaze.jpg/220px-Eminem_-_Kamikaze.jpg",
+       "auteur": ["Eminem"],
+       "uitgave": "31 augustus 2018",
+       "minuten": 45,
+       "taal": "Engels",
+       "ean": "Undefined",
+       "prijs": 29.99
+    }
+ ]
